@@ -14,6 +14,9 @@ A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor
 | Water Pump | 365DC 12V Mini Water Pump |
 | Power Supply | 12V 3A Adapter |
 
+## Schematic
+<img  src="Project_bb">
+
 ## References
 
 - [Why most Arduino Soil Moisture Sensors suck](https://www.youtube.com/watch?v=udmJyncDvw0)
