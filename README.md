@@ -6,7 +6,7 @@ A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor
 
 | Component | Model |
 |------------|---------|
-| Microcontroller | ESP32-C6 SuperMini |
+| Microcontroller | ESP32-C6 DevKit |
 | Server | Raspberry Pi 5 (4GB RAM) |
 | Sensor | Capacitive Soil Moisture Sensor |
 | Motor Controller | PWM MOSFET 15A |
@@ -15,7 +15,7 @@ A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor
 | Power Supply | 12V 3A Adapter |
 
 ## Schematic
-<img src="Project_bb.png">
+<img src="IMG/Project_bb.png">
 
 ## References
 
