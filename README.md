@@ -15,7 +15,7 @@ A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor
 | Power Supply | 12V 3A Adapter |
 
 ## Schematic
-<img  src="Project_bb">
+<img src="Project_bb.png">
 
 ## References
 
