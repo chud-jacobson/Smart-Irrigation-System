@@ -11,7 +11,7 @@
 | DC-DC Converter | 12V → 5V 3A Dual USB Buck Converter |
 
 ## Microcontroller PIN-OUT
-<img src="MKE-K01_1.png">
+<img src="IMG/MKE-K01_1.png">
 
 <!--
 ## References
