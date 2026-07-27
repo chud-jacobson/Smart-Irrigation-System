@@ -10,9 +10,8 @@
 | Adpter Cable | Female DC Barrel Jack Cable|
 | DC-DC Converter | 12V → 5V 3A Dual USB Buck Converter |
 
-
-## Schematic
-<img src="IMG/Project_bb.png">
+## Microcontroller PIN-OUT
+<img src="MKE-K01_1.png">
 
 <!--
 ## References
