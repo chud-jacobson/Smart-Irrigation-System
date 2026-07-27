@@ -1,22 +1,20 @@
-# IoT-Irrigation-System
-
-A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor, and Home Assistant running on a Raspberry Pi 5 for monitoring and automated plant watering.
-
-## Hardware Components
+## Components
 
 | Component | Model |
 |------------|---------|
-| Microcontroller | ESP32-C6 DevKit |
-| Server | Raspberry Pi 5 (4GB RAM) |
-| Sensor | Capacitive Soil Moisture Sensor |
-| Motor Controller | PWM MOSFET 15A |
-| DC-DC Converter | 12V → 5V 3A Buck Converter |
-| Water Pump | 365DC 12V Mini Water Pump |
-| Power Supply | 12V 3A Adapter |
+| Microcontroller | ESP32-S3 DevKit |
+| Soil Sensor | Capacitive Soil Moisture Sensor |
+| Water Pump | R385 Water Pump 12VDC |
+| Motor Controller | Relay 12VDC-30A |
+| DC Adapter | 2.1mm Barrel Jack 12VDC-3A |
+| Adpter Cable | Female DC Barrel Jack Cable|
+| DC-DC Converter | 12V → 5V 3A Dual USB Buck Converter |
+
 
 ## Schematic
 <img src="IMG/Project_bb.png">
 
+<!--
 ## References
 
 - [Why most Arduino Soil Moisture Sensors suck](https://www.youtube.com/watch?v=udmJyncDvw0)
@@ -24,3 +22,4 @@ A simple IoT irrigation system using ESP32-C6, a capacitive soil moisture sensor
 - [Wireless Soil Moisture Sensor Series](https://www.youtube.com/playlist?list=PLUUG94AI2ymwWiahyhoqb7W22lq5oEMo-)
 - [Flaura - Smart Plant Pot](https://www.youtube.com/@FlauraSmartPlantPot/featured)
 - [Saving Plants - DIY Plant Watering Device](https://github.com/DFRobot/SmartWateringDevice)
+-->
