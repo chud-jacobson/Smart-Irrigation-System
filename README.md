@@ -14,6 +14,7 @@
 <img src="IMG/MKE-K01_1.png">
 
 ## Schematic
+<img src="IMG/Schematic.PNG">
 
 <!--
 ## References
